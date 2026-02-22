@@ -1,8 +1,6 @@
 # 🚀 Prakhar Sharma — Portfolio
 
-A modern, dark-themed personal portfolio website showcasing my work as a **MERN Stack Engineer**. Built with **React 19**, **Tailwind CSS v4**, and **Vite**.
-
----
+## A modern, dark-themed personal portfolio website showcasing my work as a **MERN Stack Engineer**. Built with **React 19**, **Tailwind CSS v4**, and **Vite**.
 
 ## ✨ Sections
 
@@ -136,12 +134,6 @@ Deploy in seconds with:
 - **[Netlify](https://netlify.com/)** — Drag & drop the `dist/` folder or connect via Git.
 
 > ⚠️ **Important:** Add your `.env` variables in your deployment platform's environment settings so EmailJS works in production.
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
