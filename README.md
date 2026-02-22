@@ -2,8 +2,6 @@
 
 A modern, dark-themed personal portfolio website showcasing my work as a **MERN Stack Engineer**. Built with **React 19**, **Tailwind CSS v4**, and **Vite**.
 
-🌐 **Live Demo:** _[Add your deployed link here]_
-
 ---
 
 ## ✨ Sections
