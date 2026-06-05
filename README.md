@@ -144,7 +144,6 @@ Deploy in seconds with:
 - 📧 [prakharsharma752@gmail.com](mailto:prakharsharma752@gmail.com)
 - 💼 [linkedin.com/in/prakhar-sharmaa](https://www.linkedin.com/in/prakhar-sharmaa/)
 - 🐙 [github.com/prakharsharma13](https://github.com/prakharsharma13)
-- 📍 Bhopal, Madhya Pradesh, India
 
 ---
 
